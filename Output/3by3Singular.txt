@@ -1,0 +1,3624 @@
+Singular Symmetric Matrices of Size 3
+
+Matrix 0
+[0 0 0]
+[0 0 0]
+[0 0 0]
+
+Char Poly    x^3
+Eigenvalues
+  0
+  0
+  0
+Min Poly    x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 1
+[0 0 0]
+[0 0 0]
+[0 0 1]
+
+Char Poly    x^3 - x^2
+Eigenvalues
+  1
+  0
+  0
+Min Poly    x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 2
+[ 0  0  0]
+[ 0  0  0]
+[ 0  0 -1]
+
+Char Poly    x^3 + x^2
+Eigenvalues
+  -1
+  0
+  0
+Min Poly    x^2 + x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 3
+[0 0 0]
+[0 0 1]
+[0 1 0]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 4
+[0 0 0]
+[0 0 1]
+[0 1 1]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 5
+[ 0  0  0]
+[ 0  0  1]
+[ 0  1 -1]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 6
+[ 0  0  0]
+[ 0  0 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 7
+[ 0  0  0]
+[ 0  0 -1]
+[ 0 -1  1]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 8
+[ 0  0  0]
+[ 0  0 -1]
+[ 0 -1 -1]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 9
+[0 0 0]
+[0 1 0]
+[0 0 0]
+
+Char Poly    x^3 - x^2
+Eigenvalues
+  1
+  0
+  0
+Min Poly    x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 10
+[0 0 0]
+[0 1 0]
+[0 0 1]
+
+Char Poly    x^3 - 2*x^2 + x
+Eigenvalues
+  0
+  1
+  1
+Min Poly    x^2 - x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 11
+[ 0  0  0]
+[ 0  1  0]
+[ 0  0 -1]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 12
+[0 0 0]
+[0 1 1]
+[0 1 0]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 13
+[0 0 0]
+[0 1 1]
+[0 1 1]
+
+Char Poly    x^3 - 2*x^2
+Eigenvalues
+  2
+  0
+  0
+Min Poly    x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 14
+[ 0  0  0]
+[ 0  1  1]
+[ 0  1 -1]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 15
+[ 0  0  0]
+[ 0  1 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 16
+[ 0  0  0]
+[ 0  1 -1]
+[ 0 -1  1]
+
+Char Poly    x^3 - 2*x^2
+Eigenvalues
+  2
+  0
+  0
+Min Poly    x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 17
+[ 0  0  0]
+[ 0  1 -1]
+[ 0 -1 -1]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 18
+[ 0  0  0]
+[ 0 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 + x^2
+Eigenvalues
+  -1
+  0
+  0
+Min Poly    x^2 + x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 19
+[ 0  0  0]
+[ 0 -1  0]
+[ 0  0  1]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 20
+[ 0  0  0]
+[ 0 -1  0]
+[ 0  0 -1]
+
+Char Poly    x^3 + 2*x^2 + x
+Eigenvalues
+  0
+  -1
+  -1
+Min Poly    x^2 + x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 21
+[ 0  0  0]
+[ 0 -1  1]
+[ 0  1  0]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 22
+[ 0  0  0]
+[ 0 -1  1]
+[ 0  1  1]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 23
+[ 0  0  0]
+[ 0 -1  1]
+[ 0  1 -1]
+
+Char Poly    x^3 + 2*x^2
+Eigenvalues
+  -2
+  0
+  0
+Min Poly    x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 24
+[ 0  0  0]
+[ 0 -1 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 25
+[ 0  0  0]
+[ 0 -1 -1]
+[ 0 -1  1]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 26
+[ 0  0  0]
+[ 0 -1 -1]
+[ 0 -1 -1]
+
+Char Poly    x^3 + 2*x^2
+Eigenvalues
+  -2
+  0
+  0
+Min Poly    x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 27
+[0 0 1]
+[0 0 0]
+[1 0 0]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 28
+[0 0 1]
+[0 0 0]
+[1 0 1]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 29
+[ 0  0  1]
+[ 0  0  0]
+[ 1  0 -1]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 30
+[0 0 1]
+[0 0 1]
+[1 1 0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 31
+[0 0 1]
+[0 0 1]
+[1 1 1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 32
+[ 0  0  1]
+[ 0  0  1]
+[ 1  1 -1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 33
+[ 0  0  1]
+[ 0  0 -1]
+[ 1 -1  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 34
+[ 0  0  1]
+[ 0  0 -1]
+[ 1 -1  1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 35
+[ 0  0  1]
+[ 0  0 -1]
+[ 1 -1 -1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 36
+[ 0  0 -1]
+[ 0  0  0]
+[-1  0  0]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 37
+[ 0  0 -1]
+[ 0  0  0]
+[-1  0  1]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 38
+[ 0  0 -1]
+[ 0  0  0]
+[-1  0 -1]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 39
+[ 0  0 -1]
+[ 0  0  1]
+[-1  1  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 40
+[ 0  0 -1]
+[ 0  0  1]
+[-1  1  1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 41
+[ 0  0 -1]
+[ 0  0  1]
+[-1  1 -1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 42
+[ 0  0 -1]
+[ 0  0 -1]
+[-1 -1  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 43
+[ 0  0 -1]
+[ 0  0 -1]
+[-1 -1  1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 44
+[ 0  0 -1]
+[ 0  0 -1]
+[-1 -1 -1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 45
+[0 1 0]
+[1 0 0]
+[0 0 0]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 46
+[0 1 0]
+[1 0 1]
+[0 1 0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 47
+[ 0  1  0]
+[ 1  0 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 48
+[0 1 0]
+[1 1 0]
+[0 0 0]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 49
+[0 1 0]
+[1 1 1]
+[0 1 0]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 50
+[ 0  1  0]
+[ 1  1 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 51
+[ 0  1  0]
+[ 1 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 52
+[ 0  1  0]
+[ 1 -1  1]
+[ 0  1  0]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 53
+[ 0  1  0]
+[ 1 -1 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 54
+[0 1 1]
+[1 0 0]
+[1 0 0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 55
+[ 0  1  1]
+[ 1  1  0]
+[ 1  0 -1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 56
+[0 1 1]
+[1 1 1]
+[1 1 1]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 57
+[ 0  1  1]
+[ 1 -1  0]
+[ 1  0  1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 58
+[ 0  1  1]
+[ 1 -1 -1]
+[ 1 -1 -1]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 59
+[ 0  1 -1]
+[ 1  0  0]
+[-1  0  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 60
+[ 0  1 -1]
+[ 1  1  0]
+[-1  0 -1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 61
+[ 0  1 -1]
+[ 1  1 -1]
+[-1 -1  1]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 62
+[ 0  1 -1]
+[ 1 -1  0]
+[-1  0  1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 63
+[ 0  1 -1]
+[ 1 -1  1]
+[-1  1 -1]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 64
+[ 0 -1  0]
+[-1  0  0]
+[ 0  0  0]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 65
+[ 0 -1  0]
+[-1  0  1]
+[ 0  1  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 66
+[ 0 -1  0]
+[-1  0 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 67
+[ 0 -1  0]
+[-1  1  0]
+[ 0  0  0]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 68
+[ 0 -1  0]
+[-1  1  1]
+[ 0  1  0]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 69
+[ 0 -1  0]
+[-1  1 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 70
+[ 0 -1  0]
+[-1 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 71
+[ 0 -1  0]
+[-1 -1  1]
+[ 0  1  0]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 72
+[ 0 -1  0]
+[-1 -1 -1]
+[ 0 -1  0]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 73
+[ 0 -1  1]
+[-1  0  0]
+[ 1  0  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 74
+[ 0 -1  1]
+[-1  1  0]
+[ 1  0 -1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 75
+[ 0 -1  1]
+[-1  1 -1]
+[ 1 -1  1]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 76
+[ 0 -1  1]
+[-1 -1  0]
+[ 1  0  1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 77
+[ 0 -1  1]
+[-1 -1  1]
+[ 1  1 -1]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 78
+[ 0 -1 -1]
+[-1  0  0]
+[-1  0  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 79
+[ 0 -1 -1]
+[-1  1  0]
+[-1  0 -1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 80
+[ 0 -1 -1]
+[-1  1  1]
+[-1  1  1]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 81
+[ 0 -1 -1]
+[-1 -1  0]
+[-1  0  1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 82
+[ 0 -1 -1]
+[-1 -1 -1]
+[-1 -1 -1]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 83
+[1 0 0]
+[0 0 0]
+[0 0 0]
+
+Char Poly    x^3 - x^2
+Eigenvalues
+  1
+  0
+  0
+Min Poly    x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 84
+[1 0 0]
+[0 0 0]
+[0 0 1]
+
+Char Poly    x^3 - 2*x^2 + x
+Eigenvalues
+  0
+  1
+  1
+Min Poly    x^2 - x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 85
+[ 1  0  0]
+[ 0  0  0]
+[ 0  0 -1]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 86
+[1 0 0]
+[0 1 0]
+[0 0 0]
+
+Char Poly    x^3 - 2*x^2 + x
+Eigenvalues
+  0
+  1
+  1
+Min Poly    x^2 - x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 87
+[1 0 0]
+[0 1 1]
+[0 1 1]
+
+Char Poly    x^3 - 3*x^2 + 2*x
+Eigenvalues
+  2
+  1
+  0
+Min Poly    x^3 - 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 88
+[ 1  0  0]
+[ 0  1 -1]
+[ 0 -1  1]
+
+Char Poly    x^3 - 3*x^2 + 2*x
+Eigenvalues
+  2
+  1
+  0
+Min Poly    x^3 - 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 89
+[ 1  0  0]
+[ 0 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 90
+[ 1  0  0]
+[ 0 -1  1]
+[ 0  1 -1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 91
+[ 1  0  0]
+[ 0 -1 -1]
+[ 0 -1 -1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 92
+[1 0 1]
+[0 0 0]
+[1 0 0]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 93
+[1 0 1]
+[0 0 0]
+[1 0 1]
+
+Char Poly    x^3 - 2*x^2
+Eigenvalues
+  2
+  0
+  0
+Min Poly    x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 94
+[ 1  0  1]
+[ 0  0  0]
+[ 1  0 -1]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 95
+[1 0 1]
+[0 1 0]
+[1 0 1]
+
+Char Poly    x^3 - 3*x^2 + 2*x
+Eigenvalues
+  2
+  1
+  0
+Min Poly    x^3 - 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 96
+[ 1  0  1]
+[ 0 -1  0]
+[ 1  0  1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 97
+[ 1  0  1]
+[ 0 -1  1]
+[ 1  1  0]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 98
+[ 1  0  1]
+[ 0 -1 -1]
+[ 1 -1  0]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 99
+[ 1  0 -1]
+[ 0  0  0]
+[-1  0  0]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 100
+[ 1  0 -1]
+[ 0  0  0]
+[-1  0  1]
+
+Char Poly    x^3 - 2*x^2
+Eigenvalues
+  2
+  0
+  0
+Min Poly    x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 101
+[ 1  0 -1]
+[ 0  0  0]
+[-1  0 -1]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 102
+[ 1  0 -1]
+[ 0  1  0]
+[-1  0  1]
+
+Char Poly    x^3 - 3*x^2 + 2*x
+Eigenvalues
+  2
+  1
+  0
+Min Poly    x^3 - 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 103
+[ 1  0 -1]
+[ 0 -1  0]
+[-1  0  1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 104
+[ 1  0 -1]
+[ 0 -1  1]
+[-1  1  0]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 105
+[ 1  0 -1]
+[ 0 -1 -1]
+[-1 -1  0]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 106
+[1 1 0]
+[1 0 0]
+[0 0 0]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 107
+[ 1  1  0]
+[ 1  0  1]
+[ 0  1 -1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 108
+[ 1  1  0]
+[ 1  0 -1]
+[ 0 -1 -1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 109
+[1 1 0]
+[1 1 0]
+[0 0 0]
+
+Char Poly    x^3 - 2*x^2
+Eigenvalues
+  2
+  0
+  0
+Min Poly    x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 110
+[1 1 0]
+[1 1 0]
+[0 0 1]
+
+Char Poly    x^3 - 3*x^2 + 2*x
+Eigenvalues
+  2
+  1
+  0
+Min Poly    x^3 - 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 111
+[ 1  1  0]
+[ 1  1  0]
+[ 0  0 -1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 112
+[ 1  1  0]
+[ 1 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 113
+[1 1 1]
+[1 0 0]
+[1 0 0]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 114
+[1 1 1]
+[1 0 1]
+[1 1 1]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 115
+[1 1 1]
+[1 1 1]
+[1 1 0]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 116
+[1 1 1]
+[1 1 1]
+[1 1 1]
+
+Char Poly    x^3 - 3*x^2
+Eigenvalues
+  3
+  0
+  0
+Min Poly    x^2 - 3*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 117
+[ 1  1  1]
+[ 1  1  1]
+[ 1  1 -1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 118
+[ 1  1  1]
+[ 1 -1  1]
+[ 1  1  1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 119
+[ 1  1  1]
+[ 1 -1 -1]
+[ 1 -1 -1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 120
+[ 1  1 -1]
+[ 1  0  0]
+[-1  0  0]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 121
+[ 1  1 -1]
+[ 1  0 -1]
+[-1 -1  1]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 122
+[ 1  1 -1]
+[ 1  1 -1]
+[-1 -1  0]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 123
+[ 1  1 -1]
+[ 1  1 -1]
+[-1 -1  1]
+
+Char Poly    x^3 - 3*x^2
+Eigenvalues
+  3
+  0
+  0
+Min Poly    x^2 - 3*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 124
+[ 1  1 -1]
+[ 1  1 -1]
+[-1 -1 -1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 125
+[ 1  1 -1]
+[ 1 -1  1]
+[-1  1 -1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 126
+[ 1  1 -1]
+[ 1 -1 -1]
+[-1 -1  1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 127
+[ 1 -1  0]
+[-1  0  0]
+[ 0  0  0]
+
+Char Poly    x^3 - x^2 - x
+Eigenvalues
+  0
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^3 - x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 128
+[ 1 -1  0]
+[-1  0  1]
+[ 0  1 -1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 129
+[ 1 -1  0]
+[-1  0 -1]
+[ 0 -1 -1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 130
+[ 1 -1  0]
+[-1  1  0]
+[ 0  0  0]
+
+Char Poly    x^3 - 2*x^2
+Eigenvalues
+  2
+  0
+  0
+Min Poly    x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 131
+[ 1 -1  0]
+[-1  1  0]
+[ 0  0  1]
+
+Char Poly    x^3 - 3*x^2 + 2*x
+Eigenvalues
+  2
+  1
+  0
+Min Poly    x^3 - 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 132
+[ 1 -1  0]
+[-1  1  0]
+[ 0  0 -1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 133
+[ 1 -1  0]
+[-1 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 134
+[ 1 -1  1]
+[-1  0  0]
+[ 1  0  0]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 135
+[ 1 -1  1]
+[-1  0 -1]
+[ 1 -1  1]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 136
+[ 1 -1  1]
+[-1  1 -1]
+[ 1 -1  0]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 137
+[ 1 -1  1]
+[-1  1 -1]
+[ 1 -1  1]
+
+Char Poly    x^3 - 3*x^2
+Eigenvalues
+  3
+  0
+  0
+Min Poly    x^2 - 3*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 138
+[ 1 -1  1]
+[-1  1 -1]
+[ 1 -1 -1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 139
+[ 1 -1  1]
+[-1 -1  1]
+[ 1  1 -1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 140
+[ 1 -1  1]
+[-1 -1 -1]
+[ 1 -1  1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 141
+[ 1 -1 -1]
+[-1  0  0]
+[-1  0  0]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 142
+[ 1 -1 -1]
+[-1  0  1]
+[-1  1  1]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 143
+[ 1 -1 -1]
+[-1  1  1]
+[-1  1  0]
+
+Char Poly    x^3 - 2*x^2 - 2*x
+Eigenvalues
+  0
+  -0.732050807568878?
+  2.732050807568878?
+Min Poly    x^3 - 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 144
+[ 1 -1 -1]
+[-1  1  1]
+[-1  1  1]
+
+Char Poly    x^3 - 3*x^2
+Eigenvalues
+  3
+  0
+  0
+Min Poly    x^2 - 3*x
+Positive definite    False
+Unitary    False
+Trace    3
+Determinant    0
+
+
+Matrix 145
+[ 1 -1 -1]
+[-1  1  1]
+[-1  1 -1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 146
+[ 1 -1 -1]
+[-1 -1  1]
+[-1  1  1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 147
+[ 1 -1 -1]
+[-1 -1 -1]
+[-1 -1 -1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 148
+[-1  0  0]
+[ 0  0  0]
+[ 0  0  0]
+
+Char Poly    x^3 + x^2
+Eigenvalues
+  -1
+  0
+  0
+Min Poly    x^2 + x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 149
+[-1  0  0]
+[ 0  0  0]
+[ 0  0  1]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 150
+[-1  0  0]
+[ 0  0  0]
+[ 0  0 -1]
+
+Char Poly    x^3 + 2*x^2 + x
+Eigenvalues
+  0
+  -1
+  -1
+Min Poly    x^2 + x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 151
+[-1  0  0]
+[ 0  1  0]
+[ 0  0  0]
+
+Char Poly    x^3 - x
+Eigenvalues
+  1
+  0
+  -1
+Min Poly    x^3 - x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 152
+[-1  0  0]
+[ 0  1  1]
+[ 0  1  1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 153
+[-1  0  0]
+[ 0  1 -1]
+[ 0 -1  1]
+
+Char Poly    x^3 - x^2 - 2*x
+Eigenvalues
+  2
+  0
+  -1
+Min Poly    x^3 - x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 154
+[-1  0  0]
+[ 0 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 + 2*x^2 + x
+Eigenvalues
+  0
+  -1
+  -1
+Min Poly    x^2 + x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 155
+[-1  0  0]
+[ 0 -1  1]
+[ 0  1 -1]
+
+Char Poly    x^3 + 3*x^2 + 2*x
+Eigenvalues
+  0
+  -1
+  -2
+Min Poly    x^3 + 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 156
+[-1  0  0]
+[ 0 -1 -1]
+[ 0 -1 -1]
+
+Char Poly    x^3 + 3*x^2 + 2*x
+Eigenvalues
+  0
+  -1
+  -2
+Min Poly    x^3 + 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 157
+[-1  0  1]
+[ 0  0  0]
+[ 1  0  0]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 158
+[-1  0  1]
+[ 0  0  0]
+[ 1  0  1]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 159
+[-1  0  1]
+[ 0  0  0]
+[ 1  0 -1]
+
+Char Poly    x^3 + 2*x^2
+Eigenvalues
+  -2
+  0
+  0
+Min Poly    x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 160
+[-1  0  1]
+[ 0  1  0]
+[ 1  0 -1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 161
+[-1  0  1]
+[ 0  1  1]
+[ 1  1  0]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 162
+[-1  0  1]
+[ 0  1 -1]
+[ 1 -1  0]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 163
+[-1  0  1]
+[ 0 -1  0]
+[ 1  0 -1]
+
+Char Poly    x^3 + 3*x^2 + 2*x
+Eigenvalues
+  0
+  -1
+  -2
+Min Poly    x^3 + 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 164
+[-1  0 -1]
+[ 0  0  0]
+[-1  0  0]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 165
+[-1  0 -1]
+[ 0  0  0]
+[-1  0  1]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 166
+[-1  0 -1]
+[ 0  0  0]
+[-1  0 -1]
+
+Char Poly    x^3 + 2*x^2
+Eigenvalues
+  -2
+  0
+  0
+Min Poly    x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 167
+[-1  0 -1]
+[ 0  1  0]
+[-1  0 -1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 168
+[-1  0 -1]
+[ 0  1  1]
+[-1  1  0]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 169
+[-1  0 -1]
+[ 0  1 -1]
+[-1 -1  0]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 170
+[-1  0 -1]
+[ 0 -1  0]
+[-1  0 -1]
+
+Char Poly    x^3 + 3*x^2 + 2*x
+Eigenvalues
+  0
+  -1
+  -2
+Min Poly    x^3 + 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 171
+[-1  1  0]
+[ 1  0  0]
+[ 0  0  0]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 172
+[-1  1  0]
+[ 1  0  1]
+[ 0  1  1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 173
+[-1  1  0]
+[ 1  0 -1]
+[ 0 -1  1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 174
+[-1  1  0]
+[ 1  1  0]
+[ 0  0  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 175
+[-1  1  0]
+[ 1 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 + 2*x^2
+Eigenvalues
+  -2
+  0
+  0
+Min Poly    x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 176
+[-1  1  0]
+[ 1 -1  0]
+[ 0  0  1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 177
+[-1  1  0]
+[ 1 -1  0]
+[ 0  0 -1]
+
+Char Poly    x^3 + 3*x^2 + 2*x
+Eigenvalues
+  0
+  -1
+  -2
+Min Poly    x^3 + 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 178
+[-1  1  1]
+[ 1  0  0]
+[ 1  0  0]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 179
+[-1  1  1]
+[ 1  0 -1]
+[ 1 -1 -1]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 180
+[-1  1  1]
+[ 1  1  1]
+[ 1  1  1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 181
+[-1  1  1]
+[ 1  1 -1]
+[ 1 -1 -1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 182
+[-1  1  1]
+[ 1 -1 -1]
+[ 1 -1  0]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 183
+[-1  1  1]
+[ 1 -1 -1]
+[ 1 -1  1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 184
+[-1  1  1]
+[ 1 -1 -1]
+[ 1 -1 -1]
+
+Char Poly    x^3 + 3*x^2
+Eigenvalues
+  -3
+  0
+  0
+Min Poly    x^2 + 3*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 185
+[-1  1 -1]
+[ 1  0  0]
+[-1  0  0]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 186
+[-1  1 -1]
+[ 1  0  1]
+[-1  1 -1]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 187
+[-1  1 -1]
+[ 1  1  1]
+[-1  1 -1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 188
+[-1  1 -1]
+[ 1  1 -1]
+[-1 -1  1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 189
+[-1  1 -1]
+[ 1 -1  1]
+[-1  1  0]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 190
+[-1  1 -1]
+[ 1 -1  1]
+[-1  1  1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 191
+[-1  1 -1]
+[ 1 -1  1]
+[-1  1 -1]
+
+Char Poly    x^3 + 3*x^2
+Eigenvalues
+  -3
+  0
+  0
+Min Poly    x^2 + 3*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 192
+[-1 -1  0]
+[-1  0  0]
+[ 0  0  0]
+
+Char Poly    x^3 + x^2 - x
+Eigenvalues
+  0
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^3 + x^2 - x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 193
+[-1 -1  0]
+[-1  0  1]
+[ 0  1  1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 194
+[-1 -1  0]
+[-1  0 -1]
+[ 0 -1  1]
+
+Char Poly    x^3 - 3*x
+Eigenvalues
+  0
+  -1.732050807568878?
+  1.732050807568878?
+Min Poly    x^3 - 3*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 195
+[-1 -1  0]
+[-1  1  0]
+[ 0  0  0]
+
+Char Poly    x^3 - 2*x
+Eigenvalues
+  0
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^3 - 2*x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 196
+[-1 -1  0]
+[-1 -1  0]
+[ 0  0  0]
+
+Char Poly    x^3 + 2*x^2
+Eigenvalues
+  -2
+  0
+  0
+Min Poly    x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 197
+[-1 -1  0]
+[-1 -1  0]
+[ 0  0  1]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 198
+[-1 -1  0]
+[-1 -1  0]
+[ 0  0 -1]
+
+Char Poly    x^3 + 3*x^2 + 2*x
+Eigenvalues
+  0
+  -1
+  -2
+Min Poly    x^3 + 3*x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 199
+[-1 -1  1]
+[-1  0  0]
+[ 1  0  0]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 200
+[-1 -1  1]
+[-1  0  1]
+[ 1  1 -1]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 201
+[-1 -1  1]
+[-1  1  1]
+[ 1  1 -1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 202
+[-1 -1  1]
+[-1  1 -1]
+[ 1 -1  1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 203
+[-1 -1  1]
+[-1 -1  1]
+[ 1  1  0]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 204
+[-1 -1  1]
+[-1 -1  1]
+[ 1  1  1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 205
+[-1 -1  1]
+[-1 -1  1]
+[ 1  1 -1]
+
+Char Poly    x^3 + 3*x^2
+Eigenvalues
+  -3
+  0
+  0
+Min Poly    x^2 + 3*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Matrix 206
+[-1 -1 -1]
+[-1  0  0]
+[-1  0  0]
+
+Char Poly    x^3 + x^2 - 2*x
+Eigenvalues
+  1
+  0
+  -2
+Min Poly    x^3 + x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 207
+[-1 -1 -1]
+[-1  0 -1]
+[-1 -1 -1]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 208
+[-1 -1 -1]
+[-1  1  1]
+[-1  1  1]
+
+Char Poly    x^3 - x^2 - 4*x
+Eigenvalues
+  0
+  -1.561552812808831?
+  2.561552812808830?
+Min Poly    x^3 - x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 209
+[-1 -1 -1]
+[-1  1 -1]
+[-1 -1 -1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 210
+[-1 -1 -1]
+[-1 -1 -1]
+[-1 -1  0]
+
+Char Poly    x^3 + 2*x^2 - 2*x
+Eigenvalues
+  0
+  -2.732050807568878?
+  0.732050807568878?
+Min Poly    x^3 + 2*x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 211
+[-1 -1 -1]
+[-1 -1 -1]
+[-1 -1  1]
+
+Char Poly    x^3 + x^2 - 4*x
+Eigenvalues
+  0
+  -2.561552812808830?
+  1.561552812808831?
+Min Poly    x^3 + x^2 - 4*x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 212
+[-1 -1 -1]
+[-1 -1 -1]
+[-1 -1 -1]
+
+Char Poly    x^3 + 3*x^2
+Eigenvalues
+  -3
+  0
+  0
+Min Poly    x^2 + 3*x
+Positive definite    False
+Unitary    False
+Trace    -3
+Determinant    0
+
+
+Number of Singular Matrices 213 of 729

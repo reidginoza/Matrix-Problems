@@ -1,0 +1,269 @@
+Invertible Symmetric Matrices of Size 2
+
+Matrix 0
+[0 1]
+[1 0]
+
+Char Poly    x^2 - 1
+Eigenvalues
+  1
+  -1
+Min Poly    x^2 - 1
+Positive definite    False
+Unitary    True
+Trace    0
+Determinant    -1
+
+Inverse
+[0 1]
+[1 0]
+
+
+Matrix 1
+[0 1]
+[1 1]
+
+Char Poly    x^2 - x - 1
+Eigenvalues
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^2 - x - 1
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    -1
+
+Inverse
+[-1  1]
+[ 1  0]
+
+
+Matrix 2
+[ 0  1]
+[ 1 -1]
+
+Char Poly    x^2 + x - 1
+Eigenvalues
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^2 + x - 1
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    -1
+
+Inverse
+[1 1]
+[1 0]
+
+
+Matrix 3
+[ 0 -1]
+[-1  0]
+
+Char Poly    x^2 - 1
+Eigenvalues
+  1
+  -1
+Min Poly    x^2 - 1
+Positive definite    False
+Unitary    True
+Trace    0
+Determinant    -1
+
+Inverse
+[ 0 -1]
+[-1  0]
+
+
+Matrix 4
+[ 0 -1]
+[-1  1]
+
+Char Poly    x^2 - x - 1
+Eigenvalues
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^2 - x - 1
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    -1
+
+Inverse
+[-1 -1]
+[-1  0]
+
+
+Matrix 5
+[ 0 -1]
+[-1 -1]
+
+Char Poly    x^2 + x - 1
+Eigenvalues
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^2 + x - 1
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    -1
+
+Inverse
+[ 1 -1]
+[-1  0]
+
+
+Matrix 6
+[1 0]
+[0 1]
+
+Char Poly    x^2 - 2*x + 1
+Eigenvalues
+  1
+  1
+Min Poly    x - 1
+Positive definite    True
+Unitary    True
+Trace    2
+Determinant    1
+
+Inverse
+[1 0]
+[0 1]
+
+
+Matrix 7
+[ 1  0]
+[ 0 -1]
+
+Char Poly    x^2 - 1
+Eigenvalues
+  1
+  -1
+Min Poly    x^2 - 1
+Positive definite    False
+Unitary    True
+Trace    0
+Determinant    -1
+
+Inverse
+[ 1  0]
+[ 0 -1]
+
+
+Matrix 8
+[1 1]
+[1 0]
+
+Char Poly    x^2 - x - 1
+Eigenvalues
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^2 - x - 1
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    -1
+
+Inverse
+[ 0  1]
+[ 1 -1]
+
+
+Matrix 9
+[ 1 -1]
+[-1  0]
+
+Char Poly    x^2 - x - 1
+Eigenvalues
+  -0.618033988749895?
+  1.618033988749895?
+Min Poly    x^2 - x - 1
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    -1
+
+Inverse
+[ 0 -1]
+[-1 -1]
+
+
+Matrix 10
+[-1  0]
+[ 0  1]
+
+Char Poly    x^2 - 1
+Eigenvalues
+  1
+  -1
+Min Poly    x^2 - 1
+Positive definite    False
+Unitary    True
+Trace    0
+Determinant    -1
+
+Inverse
+[-1  0]
+[ 0  1]
+
+
+Matrix 11
+[-1  0]
+[ 0 -1]
+
+Char Poly    x^2 + 2*x + 1
+Eigenvalues
+  -1
+  -1
+Min Poly    x + 1
+Positive definite    False
+Unitary    True
+Trace    -2
+Determinant    1
+
+Inverse
+[-1  0]
+[ 0 -1]
+
+
+Matrix 12
+[-1  1]
+[ 1  0]
+
+Char Poly    x^2 + x - 1
+Eigenvalues
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^2 + x - 1
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    -1
+
+Inverse
+[0 1]
+[1 1]
+
+
+Matrix 13
+[-1 -1]
+[-1  0]
+
+Char Poly    x^2 + x - 1
+Eigenvalues
+  -1.618033988749895?
+  0.618033988749895?
+Min Poly    x^2 + x - 1
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    -1
+
+Inverse
+[ 0 -1]
+[-1  1]
+
+
+Number of Invertible Matrices 14 of 27

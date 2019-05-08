@@ -1,0 +1,79 @@
+Symmetric Matrices With Non-Integer Inverse of Size 2
+
+Matrix 0
+[ 1  1]
+[ 1 -1]
+
+Char Poly    x^2 - 2
+Eigenvalues
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^2 - 2
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    -2
+
+Inverse
+[ 1/2  1/2]
+[ 1/2 -1/2]
+
+
+Matrix 1
+[ 1 -1]
+[-1 -1]
+
+Char Poly    x^2 - 2
+Eigenvalues
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^2 - 2
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    -2
+
+Inverse
+[ 1/2 -1/2]
+[-1/2 -1/2]
+
+
+Matrix 2
+[-1  1]
+[ 1  1]
+
+Char Poly    x^2 - 2
+Eigenvalues
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^2 - 2
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    -2
+
+Inverse
+[-1/2  1/2]
+[ 1/2  1/2]
+
+
+Matrix 3
+[-1 -1]
+[-1  1]
+
+Char Poly    x^2 - 2
+Eigenvalues
+  -1.414213562373095?
+  1.414213562373095?
+Min Poly    x^2 - 2
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    -2
+
+Inverse
+[-1/2 -1/2]
+[-1/2  1/2]
+
+
+Number of Symmetric Matrices With Non-Integer Inverse 4 of 27

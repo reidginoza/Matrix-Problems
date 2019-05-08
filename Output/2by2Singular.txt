@@ -1,0 +1,138 @@
+Singular Symmetric Matrices of Size 2
+
+Matrix 0
+[0 0]
+[0 0]
+
+Char Poly    x^2
+Eigenvalues
+  0
+  0
+Min Poly    x
+Positive definite    False
+Unitary    False
+Trace    0
+Determinant    0
+
+
+Matrix 1
+[0 0]
+[0 1]
+
+Char Poly    x^2 - x
+Eigenvalues
+  1
+  0
+Min Poly    x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 2
+[ 0  0]
+[ 0 -1]
+
+Char Poly    x^2 + x
+Eigenvalues
+  0
+  -1
+Min Poly    x^2 + x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 3
+[1 0]
+[0 0]
+
+Char Poly    x^2 - x
+Eigenvalues
+  1
+  0
+Min Poly    x^2 - x
+Positive definite    False
+Unitary    False
+Trace    1
+Determinant    0
+
+
+Matrix 4
+[1 1]
+[1 1]
+
+Char Poly    x^2 - 2*x
+Eigenvalues
+  2
+  0
+Min Poly    x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 5
+[ 1 -1]
+[-1  1]
+
+Char Poly    x^2 - 2*x
+Eigenvalues
+  2
+  0
+Min Poly    x^2 - 2*x
+Positive definite    False
+Unitary    False
+Trace    2
+Determinant    0
+
+
+Matrix 6
+[-1  0]
+[ 0  0]
+
+Char Poly    x^2 + x
+Eigenvalues
+  0
+  -1
+Min Poly    x^2 + x
+Positive definite    False
+Unitary    False
+Trace    -1
+Determinant    0
+
+
+Matrix 7
+[-1  1]
+[ 1 -1]
+
+Char Poly    x^2 + 2*x
+Eigenvalues
+  0
+  -2
+Min Poly    x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Matrix 8
+[-1 -1]
+[-1 -1]
+
+Char Poly    x^2 + 2*x
+Eigenvalues
+  0
+  -2
+Min Poly    x^2 + 2*x
+Positive definite    False
+Unitary    False
+Trace    -2
+Determinant    0
+
+
+Number of Singular Matrices 9 of 27
