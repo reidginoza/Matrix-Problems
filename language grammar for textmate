@@ -1,0 +1,18 @@
+{	patterns = (
+		{	name = 'keyword.control.matrix';
+			match = '\b(Matrix [0-9]*)\b';
+		},
+		{	name = 'string.quoted.single.inverse';
+			match = '\b(Inverse)\b';
+		},
+		{	name = 'string.quoted.double.untitled';
+			begin = '"';
+			end = '"';
+			patterns = (
+				{	name = 'constant.character.escape.untitled';
+					match = '\.';
+				},
+			);
+		},
+	);
+}
