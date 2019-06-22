@@ -1,16 +1,18 @@
-print "Loaded Invertible Integer Matrices Code"
-# nxn Matrices with entries drawn from {-1, 0, 1}
-# Start with an nxn Matrix
-# Fill in upper triangle with the number from the list, including the diagonal
+"""
+nxn Matrices with entries drawn from {-1, 0, 1}
+Start with an nxn Matrix
+Fill in upper triangle with the number from the list, including the diagonal
 
-# Identifying degrees of freedom for a matrix
-# For an nxn matrix
-# n diagonal entries, non-diagonal entries: n^2 - n
-# Need to fill diagonal plus half of non-diagonal entries
-# n + (n^2-n)/2 = (n^2+n)/2
+Identifying degrees of freedom for a matrix
+For an nxn matrix
+n diagonal entries, non-diagonal entries: n^2 - n
+Need to fill diagonal plus half of non-diagonal entries
+n + (n^2-n)/2 = (n^2+n)/2
 
-# For a given n, there are 3^((n^2+n)/2) possible matrices
+For a given n, there are 3^((n^2+n)/2) possible matrices
+"""
 
+load("Matrix_Printing.sage")
 
 def convert_to_sign_matrix_list(num, length, elements = Set([-1,0,1])):
     # num is the number to convert, is a set or list of entries to use
@@ -80,21 +82,7 @@ def list_of_symmetric_matrices_specified_elements(n, elements):
         results.append(m)
     return results
 
-def matrix_properties_into_string(m, with_inverse = False, with_eigenvalues = True):
-    m_string = "Char Poly    "  + str(m.charpoly()) +"\n"
-    m_string = m_string + "Eigenvalues\n"
-    if with_eigenvalues:
-        for ev in m.eigenvalues():
-            m_string = m_string + "  " + str(ev) + "\n"
-    m_string = m_string + "Min Poly    " + str(m.minpoly()) + "\n"
-    m_string = m_string + "Positive definite    " + str(m.is_positive_definite()) + "\n"
-    m_string = m_string + "Unitary    " + str(m.is_unitary()) + "\n"
-    m_string = m_string + "Trace    " + str(m.trace()) + "\n"
-    m_string = m_string + "Determinant    " + str(m.determinant()) + "\n"
-    if with_inverse:
-        m_string = m_string + "\nInverse\n" + str(m.inverse()) + "\n"
-    m_string = m_string + "\n\n"
-    return m_string
+
 
 def file_write_inverses(n, elements, file_str_inverse, file_str_not_int_inverse, file_str_singular):
     # Note to self, define a set like this: Set([-1,0,1])
@@ -119,7 +107,7 @@ def file_write_inverses(n, elements, file_str_inverse, file_str_not_int_inverse,
             m_string = m_string + matrix_properties_into_string(m, with_inverse = True)
             file_inverse.write(m_string)
             
-            if count_invertible % 100 = 0:
+            if count_invertible % 100 == 0:
                 file_inverse.flush()
             # Buffer seems to get large for 5by5 case, so coding in the flush
             
@@ -129,7 +117,7 @@ def file_write_inverses(n, elements, file_str_inverse, file_str_not_int_inverse,
             m_string = m_string + matrix_properties_into_string(m, with_inverse = True)
             file_not_int_inverse.write(m_string)
             
-            if count_not_int_inverse % 100 = 0:
+            if count_not_int_inverse % 100 == 0:
                 file_not_int_inverse.flush()
             # Buffer seems to get large for 5by5 case, so coding in the flush
             
@@ -139,7 +127,7 @@ def file_write_inverses(n, elements, file_str_inverse, file_str_not_int_inverse,
             m_string = m_string + matrix_properties_into_string(m, with_inverse = False)
             file_singular.write(m_string)
             
-            if count_singular % 100 = 0:
+            if count_singular % 100 == 0:
                 file_singular.flush()
             # Buffer seems to get large for 5by5 case, so coding in the flush
             
@@ -161,9 +149,10 @@ def file_write_inverses(n, elements, file_str_inverse, file_str_not_int_inverse,
     file_singular.close()
     return
 
-def make_outputs(n_range = [2..5]):
-    # didn't make adaptable for different sets
-    elements = Set([-1, 0, 1])
+def make_outputs(n_range = [2..5], elements = Set([-1, 0, 1])):
+    """
+    generate the 2x2 to 5x5 cases into .txt files
+    """
     for n in n_range:
         file_str_inverse = str(n) + "by" + str(n) + "Invertible.txt"
         file_str_not_int_inverse = str(n) + "by" + str(n) + "NotIntInvertible.txt"
@@ -198,4 +187,30 @@ def print_inverses(n, elements):
     print "Number of Singular Matrices: "
     print count_singular
     print "\n"
+    return
+
+def save_matrices(n, elements, file_str_inverse, file_str_not_int_inverse, file_str_singular):
+    """
+    Create three .sage files that will create variables with a list of 
+    the respective types:
+    integer invertible, non-integer invertible, singular
+    """
+    # Note to self, define a set like this: Set([-1,0,1])
+    file_inverse = open(file_str_inverse, "w+")
+    file_inverse.write("integer_invertible_list = []\n")
+    
+    file_not_int_inverse = open(file_str_not_int_inverse, "w+")
+    file_not_int_inverse.write("non_integer_invertible_list = []\n")
+    
+    file_singular = open(file_str_singular, "w+")
+    file_singular.write("singular_list = []\n")
+    
+    """
+    this is where I need to learn how to print the matrices
+    in such a way that it will open as a matrix in a sage interpreter
+    """
+    
+    file_inverse.close()
+    file_not_int_inverse.close()
+    file_singular.close()
     return
