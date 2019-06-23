@@ -58,6 +58,10 @@ def list_of_symmetric_matrices_specified_elements(n, elements):
 
 
 def file_write_inverses(n, elements, file_str_inverse, file_str_not_int_inverse, file_str_singular):
+    """
+    probably an inefficient way by generating a list first.
+    need to recode.
+    """
     # Note to self, define a set like this: Set([-1,0,1])
     file_inverse = open(file_str_inverse, "w+")
     file_inverse.write("Invertible Symmetric Matrices of Size " + str(n) + "\n\n")
@@ -164,12 +168,16 @@ def print_inverses(n, elements):
     return
 
 
-def save_matrices(n, elements, file_str_inverse, file_str_not_int_inverse, file_str_singular):
+def save_matrices(n, elements):
     """
     Create three .sage files that will create variables with a list of 
     the respective types:
     integer invertible, non-integer invertible, singular
     """
+    file_str_inverse = str(n) + "by" + str(n) + "Invertible.sage"
+    file_str_not_int_inverse = str(n) + "by" + str(n) + "NotIntInvertible.sage"
+    file_str_singular = str(n) + "by" + str(n) + "Singular.sage"
+    
     # Note to self, define a set like this: Set([-1,0,1])
     file_inverse = open(file_str_inverse, "w+")
     file_inverse.write("integer_invertible_list = []\n")
@@ -180,10 +188,33 @@ def save_matrices(n, elements, file_str_inverse, file_str_not_int_inverse, file_
     file_singular = open(file_str_singular, "w+")
     file_singular.write("singular_list = []\n")
     
-    """
-    this is where I need to learn how to print the matrices
-    in such a way that it will open as a matrix in a sage interpreter
-    """
+    length = (n^2+n)/2
+    total = len(elements)^length
+    
+    for num in range(total):
+        number_list = convert_to_sign_matrix_list(num, length, elements)
+        m = symmetric_from_upper_triangle(n, number_list)
+        
+        if m.is_invertible():
+            # HUGE NOTE: This only checks if the matrix is invertible is in ZZ, the integers.
+            # Need to make this clear in the code by declaring Matrix Spaces and Rings
+            file_inverse.write("integer_invertible_list.append(")
+            file_inverse.write(pretty_code_string(m))
+            file_inverse.write(")\n")
+        elif m.determinant() != 0:
+            file_not_int_inverse.write("non_integer_invertible_list.append(")
+            file_not_int_inverse.write(pretty_code_string(m))
+            file_not_int_inverse.write(")\n")
+        else:
+            file_singular.write("singular_list.append(")
+            file_singular.write(pretty_code_string(m))
+            file_singular.write(")\n")
+        
+        if num % 100 == 0:
+            file_inverse.flush()
+            file_not_int_inverse.flush()
+            file_singular.flush()
+            # if n is 5, it seems to take up a lot of memory
     
     file_inverse.close()
     file_not_int_inverse.close()
