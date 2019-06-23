@@ -8,34 +8,7 @@ Fill in upper triangle with the number from the list, including the diagonal
 For a given n, there are 3^((n^2-n)/2) possible matrices
 """
 
-load("Matrix_Printing.sage")
-
-def convert_to_sign_matrix_list(num, length, elements = Set([-1,0,1])):
-    # num is the number to convert, is a set or list of entries to use
-    # returns a list/vector whose elements are the digits of the number
-    
-    # verify using Sage's Integer type, instead of Python's int type
-    num = Integer(num)
-    
-    s = num.str(base = len(elements))
-    # has 0, 1, ... (base - 1) entries
-    # will use as index for entries set/list
-    
-    # 
-    digits = len(s)
-    
-    number_list = []
-    
-    # Fill in leading zeroes
-    lead = length - digits
-    
-    for c in range(lead):
-        number_list.append(Integer(elements[0]))
-    
-    for c in range(digits):
-        number_list.append(Integer(elements[Integer(s[c])]))
-    
-    return number_list
+load("Matrix_Support.sage")
 
 
 def skew_symmetric_from_upper_triangle(n, number_list):

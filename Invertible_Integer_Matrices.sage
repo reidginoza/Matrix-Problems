@@ -12,35 +12,7 @@ n + (n^2-n)/2 = (n^2+n)/2
 For a given n, there are 3^((n^2+n)/2) possible matrices
 """
 
-load("Matrix_Printing.sage")
-
-def convert_to_sign_matrix_list(num, length, elements = Set([-1,0,1])):
-    # num is the number to convert, is a set or list of entries to use
-    # returns a list/vector whose elements are the digits of the number
-    
-    # verify using Sage's Integer type, instead of Python's int type
-    num = Integer(num)
-    
-    s = num.str(base = len(elements))
-    # has 0, 1, ... (base - 1) entries
-    # will use as index for entries set/list
-    
-    # 
-    digits = len(s)
-    
-    result = []
-    
-    # Fill in leading zeroes
-    lead = length - digits
-    
-    for c in range(lead):
-        result.append(Integer(elements[0]))
-    
-    for c in range(digits):
-        result.append(Integer(elements[Integer(s[c])]))
-    
-    return result
-
+load("Matrix_Support.sage")
 
 
 def symmetric_from_upper_triangle(n, number_list):
@@ -70,6 +42,7 @@ def symmetric_from_upper_triangle(n, number_list):
                 m[c,d] = number_list[entries_placed]
                 entries_placed = entries_placed + 1
     return m
+
 
 def list_of_symmetric_matrices_specified_elements(n, elements):
     results = []
@@ -161,6 +134,7 @@ def make_outputs(n_range = [2..5], elements = Set([-1, 0, 1])):
         file_write_inverses(n, elements, file_str_inverse, file_str_not_int_inverse, file_str_singular)
     return
 
+
 def print_inverses(n, elements):
     ## Used for testing
     matrices_list = list_of_symmetric_matrices_specified_elements(n, elements)
@@ -188,6 +162,7 @@ def print_inverses(n, elements):
     print count_singular
     print "\n"
     return
+
 
 def save_matrices(n, elements, file_str_inverse, file_str_not_int_inverse, file_str_singular):
     """

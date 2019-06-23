@@ -47,12 +47,28 @@ def matrix_properties_into_string(m, with_inverse = False, with_eigenvalues = Tr
     return m_string
     
     
-def pretty_code_string(matrix):
-    string_output = "["
-    rows = matrix.nrows()
-    cols = matrix.ncols()
+def pretty_code_string(m):
+    """
+    print out a string representing a matrix so that one can
+    print this into a .sage file and load this file with the matrix
+    This matrix will be in a list, since it will be appended to a list
+    """
+    string_output = "["  # start of list
+    string_output += "matrix("  # start of matrix
+    string_output += "["  # start of matrix list
+    rows = m.nrows()
+    cols = m.ncols()
+    for i in range(rows):
+        string_output += "["
+        for j in range(cols):
+            string_output += str(m[i, j])
+            if j < (cols-1):
+                string_output += ", "
+        string_output += "]"
+        if i < (rows - 1):
+            string_output += ", "
     
-    # continue here
-    
-    string_output += "]"
-    return
+    string_output += "]"  # end of matrix list
+    string_output += ")"  # end of matrix
+    string_output += "]"  # end of list
+    return string_output
