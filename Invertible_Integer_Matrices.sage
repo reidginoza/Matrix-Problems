@@ -167,7 +167,7 @@ def print_inverses(n, elements):
     print "\n"
     return
 
-
+# NEED TO TEST THIS
 def save_matrices(n, elements):
     """
     Create three .sage files that will create variables with a list of 
@@ -180,13 +180,13 @@ def save_matrices(n, elements):
     
     # Note to self, define a set like this: Set([-1,0,1])
     file_inverse = open(file_str_inverse, "w+")
-    file_inverse.write("integer_invertible_list = []\n")
+    file_inverse.write("int_inv_list" + str(n) + "by" + str(n) + " = []\n")
     
     file_not_int_inverse = open(file_str_not_int_inverse, "w+")
-    file_not_int_inverse.write("non_integer_invertible_list = []\n")
+    file_not_int_inverse.write("non_int_inv_list" + str(n) + "by" + str(n)+ " = []\n")
     
     file_singular = open(file_str_singular, "w+")
-    file_singular.write("singular_list = []\n")
+    file_singular.write("sing_list"+ str(n) + "by" + str(n)+ " = []\n")
     
     length = (n^2+n)/2
     total = len(elements)^length
@@ -198,15 +198,15 @@ def save_matrices(n, elements):
         if m.is_invertible():
             # HUGE NOTE: This only checks if the matrix is invertible is in ZZ, the integers.
             # Need to make this clear in the code by declaring Matrix Spaces and Rings
-            file_inverse.write("integer_invertible_list.append(")
+            file_inverse.write("int_inv_list" + str(n) + "by" + str(n) +".append(")
             file_inverse.write(pretty_code_string(m))
             file_inverse.write(")\n")
         elif m.determinant() != 0:
-            file_not_int_inverse.write("non_integer_invertible_list.append(")
+            file_not_int_inverse.write("non_int_inv_list" + str(n) + "by" + str(n)+ ".append(")
             file_not_int_inverse.write(pretty_code_string(m))
             file_not_int_inverse.write(")\n")
         else:
-            file_singular.write("singular_list.append(")
+            file_singular.write("sing_list"+ str(n) + "by" + str(n)+".append(")
             file_singular.write(pretty_code_string(m))
             file_singular.write(")\n")
         
